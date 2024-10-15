@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there I'm Bikash Sahoo👋
 
-<!--
-**Bikas-sh/Bikas-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Full Stack Developer
+🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma
+🎓 Pursuing B TECH in CSE
+
+
+Tools and Languages
+
+HTML CSS JavaScript Bootstrap SQL MongoDB Node.js Express.js React.js 
+
+Let's Connect!
+LinkedIn Email
+
+Feel free to explore my repository 😊!
