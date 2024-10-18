@@ -31,4 +31,7 @@ Feel free to explore my repository 😊!
 </body>
   
 </html>
+<a href="https://www.linkedin.com/in/bikash-sahoo-778400275/" rel="nofollow">
+
+<img src="https://camo.githubusercontent.com/8539 4896c653d6" alt="LinkedIn" data-canonical-src= "https://img.shields.io/badge/LinkedIn-0077852sty le-flat&logo-linkedin&logoColor-white" style="max -width: 100%;"></a>
 
