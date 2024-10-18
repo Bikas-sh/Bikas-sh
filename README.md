@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 HTML CSS JavaScript Bootstrap SQL MongoDB Node.js Express.js React.js 
 
 Let's Connect! <br>
+<a href="https://www.linkedin.com/in/bikash-sahoo-778400275/">
+    <img src="linkdin.jpg" alt="linkdin" style="width:80px;height:30px;padding:50px;border-radius:60px;">
+    </a>
 <a href="https://www.linkedin.com/in/bikash-sahoo-778400275/" rel="nofollow">
 
 <img src="https://camo.githubusercontent.com/8539 4896c653d6" alt="LinkedIn" data-canonical-src= "https://img.shields.io/badge/LinkedIn-0077852sty le-flat&logo-linkedin&logoColor-white" style="max -width: 100%;"></a>
