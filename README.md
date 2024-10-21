@@ -24,16 +24,12 @@ HTML CSS JavaScript Bootstrap SQL MongoDB Node.js Express.js React.js
     <a href="https://www.linkedin.com/in/bikash-sahoo-778400275/" >
     <img src="LinkedIn_PNG8.png" alt="linkdin" style="width:80px;height:30px;padding:50px;border-radius:60px;">Linkdin
     </a>
-    <a href="mailto:bsau6629@gmail.com">
-    <img src="linkdin.jpg" alt="linkdin" style="width:80px;height:30px;padding:50px;border-radius:60px;">
-    </a>
+   
 <a href="mailto:bsau6629@gmail.com">Send email</a>
 
 Feel free to explore my repository 😊!
 </body>
   
 </html>
-<a href="https://www.linkedin.com/in/bikash-sahoo-778400275/" rel="nofollow">
 
-<img src="https://camo.githubusercontent.com/8539 4896c653d6" alt="LinkedIn" data-canonical-src= "https://img.shields.io/badge/LinkedIn-0077852sty le-flat&logo-linkedin&logoColor-white" style="max -width: 100%;"></a>
 
