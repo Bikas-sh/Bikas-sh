@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Bikash-web-developer/README.md</title>
+  Bikash-web-developer/README.md
 </head>
 <body>
   # Hi there I'm Bikash Sahoo👋
