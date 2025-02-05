@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in building scalable an
 - 🌱 I’m constantly learning and improving my skills in web development and cloud computing
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas
 - 💬 Ask me about web development, algorithms, and best coding practices
-- 📫 How to reach me:[bsau6629@gmail.com] (mailto:bsau6629@gmail.com)
+- 📫 How to reach me:[bsau6629@gmail.com] 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring nature in my free time
 
