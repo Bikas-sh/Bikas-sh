@@ -1,39 +1,30 @@
-<html>
-<head>
-  Bikash-web-developer/README.md<br>
-</head>
-<body>
-  <br>
-  # Hi there I'm Bikash Sahoo👋
-  <hr>
+# Hi there, I'm Bikas 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+## About Me
 
-<hr>
+I'm a passionate software developer with a keen interest in building scalable and efficient web applications. With a strong background in computer science and a love for problem-solving, I enjoy working on challenging projects that push the boundaries of technology.
 
-### About Me
+- 🔭 I’m currently working on exciting projects using JavaScript, React, and Node.js
+- 🌱 I’m constantly learning and improving my skills in web development and cloud computing
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas
+- 💬 Ask me about web development, algorithms, and best coding practices
+- 📫 How to reach me: [bikas@example.com](mailto:bsau6629@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring nature in my free time
 
-<ul>
-  <li>💼 Full Stack Developer </li>
-  <li>🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js, Figma </li>
-  <li>🎓 Pursuing B TECH in CSE</li>
-</ul>
+## Skills
 
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, Redux, HTML, CSS, Sass
+- **Backend:** Node.js, Express, MongoDB, SQL
+- **Tools & Platforms:** Git, Docker, AWS, Firebase
 
-### Tools and Languages
+## GitHub Stats
 
-HTML CSS JavaScript Bootstrap SQL MongoDB Node.js Express.js React.js 
+![Bikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bikas-sh&show_icons=true&theme=radical)
 
-<b>Let's Connect!</b> <br>
-    <a href="https://www.linkedin.com/in/bikash-sahoo-778400275/" >
-    <img src="LinkedIn_PNG8.png" alt="linkdin" style="width:80px;height:30px;padding:50px;border-radius:60px;">Linkdin
-    </a>
-   
-<a href="mailto:bsau6629@gmail.com">Send email</a>
+## Connect with Me
 
-Feel free to explore my repository 😊!
-</body>
-  
-</html>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bikash-sahoo-778400275/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Bikas-sh)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:bsau6629@gmail.com)
